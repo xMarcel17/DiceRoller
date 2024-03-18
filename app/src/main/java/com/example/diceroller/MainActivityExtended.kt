@@ -43,6 +43,11 @@ class MainActivityExtended : AppCompatActivity() {
 
         setContentView(binding.root)
         applySettings()
+
+        binding.settingsButton.setOnClickListener{
+            startSettingsActivity();
+        }
+
         // Set the click listener of the roll button
         binding.RollButton.setOnClickListener {
             // Check the state of the button by analysing its text.

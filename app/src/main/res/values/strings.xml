@@ -1,21 +1,21 @@
 <resources>
-    <string name="app_name">DiceRoller</string>
+    <string name="app_name">Dice Roller</string>
     <string name="roll">Roll!</string>
     <string name="hello_world">Hello_world!</string>
-    <string name="confirm">CONFIRM</string>
+    <string name="confirm">Confirm</string>
     <string name="number_of_dice">Number of dice</string>
     <string name="allow_dice_hold">Allow dice hold</string>
     <string name="player_d">Player %d</string>
     <string name="click_start">Click start</string>
-    <string name="start">START</string>
     <string name="settings_menu_label">Settings</string>
     <string name="num_dice_key">Num Dice Key</string>
     <string name="hold_enable_key">Hold Enable Key</string>
     <string name="button_enabled">Roll!</string>
-    <string name="click_roll">Click Roll</string>
+    <string name="click_roll">Click roll</string>
     <string name="button_initial">Start</string>
-    <string name="second_start">Second Start</string>
+    <string name="second_start">Second start</string>
     <string name="rolled_msg">Rolled: </string>
+    <string name="settings">Settings</string>
     <string-array name="num_dice_spinner_entries">
         <item>2</item>
         <item>3</item>
