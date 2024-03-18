@@ -306,5 +306,5 @@ class MainActivityExtended : AppCompatActivity() {
         // Change the tint of the img. The getColor method is available for API >= M (API 23)
         img.imageTintList =
             ColorStateList.valueOf(getColor(if (highlight) R.color.yellow else R.color.white))
-    }
+   }
 }
