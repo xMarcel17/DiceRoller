@@ -45,7 +45,7 @@ class MainActivityExtended : AppCompatActivity() {
         applySettings()
 
         binding.settingsButton.setOnClickListener{
-            startSettingsActivity();
+            startSettingsActivity()
         }
 
         // Set the click listener of the roll button
